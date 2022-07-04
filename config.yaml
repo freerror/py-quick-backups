@@ -1,0 +1,17 @@
+source paths:
+  1.19-release:
+    path: F:\Program Files (x86)\MultiMC\instances\1.19\.minecraft\saves
+    is_folder: true
+    exceptions:
+    - example_file.txt
+  1.19-pre4:
+    path: F:\Program Files (x86)\MultiMC\instances\1.19-pre4\.minecraft\saves
+    is_folder: true
+    exceptions:
+    - example_file.txt
+  Other file:
+    path: F:\Program Files (x86)\MultiMC\instances\1.19\.minecraft\options.txt
+    is_folder: false
+    exceptions:
+    - example_file.txt
+backup path: L:\ruser\Core\Documents\Gaming\Minecraft World Backups
